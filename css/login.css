@@ -1,0 +1,36 @@
+
+
+body{
+	font-size: 0.04rem;
+}
+
+
+
+
+
+
+
+section{width:92%;margin: 0 auto;}
+
+
+#title h1{text-align: center;}
+
+#bhome{font:14px/54px "";color: #888;}
+#bhome a{text-decoration:none;color: #888;}
+
+#line{border: 1px solid #eee;width:100%;height: 0px;margin:20px 0;}
+
+#main{float: left;width:1200px;height:466px;margin-top:90px;}
+
+#main #login{float:left;width:47%; height: 406px;border:1px solid #eeeeee;margin-right: 2%;}
+#main #login a{font:14px/30px "";color: #000;text-decoration:none;position: relative;margin-left:212px;}
+#main #login a:hover{color: #CC8043;}
+
+#main #login #remb{font:14px/14px "";}
+#main #register{float:left;width:47%; height: 406px;border:1px solid #eeeeee}
+#main .star{color:red;}
+
+#main .bag{width:470px;height:296px;margin-left: 50px;margin-top:58px;}
+#main .info{font:14px/48px "";color: #000;}
+#main .putin{height:24px;width: 460px;padding:6px;}
+#main .bbtn{height:30px;width: 124px;background: #000;color: #fff;border: none;margin-top: 14px;}
